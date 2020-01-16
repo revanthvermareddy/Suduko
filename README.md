@@ -9,6 +9,6 @@ solution. And whenever we encounter an error, we just go
 back to the previous time line where we had earlier taken
 a decision and try other ways around.
 
-# Learnigs
+# Learnings
 The algorithm is simple to understand but it's a bit tricky
 to logically apply this algo in problem solving.
